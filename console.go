@@ -24,7 +24,7 @@ import (
 	"time"
 	"unicode/utf8"
 
-	"github.com/creack/pty"
+	"github.com/creack/pty/v2"
 	"github.com/muesli/cancelreader"
 )
 
