@@ -1,4 +1,4 @@
-module github.com/Netflix/go-expect
+module github.com/twpayne/go-expect
 
 go 1.13
 

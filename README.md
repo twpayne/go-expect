@@ -1,9 +1,6 @@
 # go-expect
 
-![Go](https://github.com/Netflix/go-expect/workflows/Go/badge.svg)
-[![Build Status](https://travis-ci.com/Netflix/go-expect.svg?branch=master)](https://travis-ci.com/Netflix/go-expect)
-[![GoDoc](https://godoc.org/github.com/Netflix/go-expect?status.svg)](https://godoc.org/github.com/Netflix/go-expect)
-[![NetflixOSS Lifecycle](https://img.shields.io/osslifecycle/Netflix/go-expect.svg)]()
+[![PkgGoDev](https://pkg.go.dev/badge/github.com/twpayne/go-expect)](https://pkg.go.dev/github.com/twpayne/go-expect)
 
 Package expect provides an expect-like interface to automate control of applications. It is unlike expect in that it does not spawn or manage process lifecycle. This package only focuses on expecting output and sending input through it's pseudoterminal.
 
@@ -20,7 +17,7 @@ import (
 	"os/exec"
 	"time"
 
-	expect "github.com/Netflix/go-expect"
+	"github.com/twpayne/go-expect"
 )
 
 func main() {
@@ -68,7 +65,7 @@ import (
 
 	"golang.org/x/crypto/ssh/terminal"
 
-	expect "github.com/Netflix/go-expect"
+	"github.com/twpayne/go-expect"
 )
 
 func getPassword(fd int) string {
