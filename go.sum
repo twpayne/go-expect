@@ -1,3 +1,5 @@
+github.com/creack/pty v1.1.24 h1:bJrF4RRfyJnbTJqzRLHzcGaZK1NeM5kTC9jGgovnR1s=
+github.com/creack/pty v1.1.24/go.mod h1:08sCNb52WyoAwi2QDyzUCTgcvVFhUzewun7wtTfvcwE=
 github.com/creack/pty/v2 v2.0.0-20231209135443-03db72c7b76c h1:5l8y/PgjeX1aUyZxXabtAf2ahCYQaqWzlFzQgU16o0U=
 github.com/creack/pty/v2 v2.0.0-20231209135443-03db72c7b76c/go.mod h1:1gZ4PfMDNcYx8FxDdnF/6HYP327cTeB/ru6UdoWVQvw=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
