@@ -1,3 +1,5 @@
+# Use [github.com/pete-woods/go-expect](https://github.com/pete-woods/go-expect) instead
+
 # go-expect
 
 [![PkgGoDev](https://pkg.go.dev/badge/github.com/twpayne/go-expect)](https://pkg.go.dev/github.com/twpayne/go-expect)
